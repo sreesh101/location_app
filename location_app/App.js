@@ -123,12 +123,14 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   header: {
+    
     backgroundColor: '#004EC2',
     padding: 20,
     alignItems: 'center',
     justifyContent: 'center',
   },
   headerText: {
+    marginTop:30,
     color: '#ffe500',
     fontSize: 30,
     fontWeight: 'bold',
